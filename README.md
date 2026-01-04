@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=57B6EC&width=435&lines=Software+Engineer;Java+Architect;Spring+Boot+Specialist;Building+Scalable+Backends" alt="Typing SVG" />
 </p>
-
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="600" alt="coding animation"/>
 ---
 
 ### 🪐 About the Developer
