@@ -1,98 +1,140 @@
-<div align="center">
+# 👋 Hi, I'm Mobin Noori
 
-<img src="./assets/header.svg" alt="Mobin Noori, Backend Software Engineer" width="100%" />
+### Java Backend Developer | Spring Boot | REST APIs | PostgreSQL
 
-<p>
-  <a href="https://www.linkedin.com/in/mobin-noori-93194b263/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mobin.noori21@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/mobinnoori"><img src="https://img.shields.io/github/followers/mobinnoori?label=Followers&style=flat-square&logo=github&color=24292F" alt="GitHub followers" /></a>
-</p>
+I am a Backend Developer passionate about designing and building secure, scalable, and maintainable backend systems. I enjoy turning complex requirements into clean architectures, developing RESTful APIs, and working with databases, authentication systems, caching, and cloud storage.
 
-</div>
-
-I build backend systems where performance and security come first. My day-to-day is Java and Spring Boot, and I care most about turning complex business logic into code that a team can read, test, and maintain.
-
-<div align="center">
-  <img src="./assets/terminal.svg" alt="MobinNoori.java: role, stack, focus and philosophy written as a Java class" width="85%" />
-</div>
-
-<br />
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>Currently</b><br />
-      Hardening applications with Spring Security and improving communication between microservices.
-    </td>
-    <td width="33%" valign="top">
-      <b>Goal</b><br />
-      Turning complex business logic into clean, maintainable, and scalable Java code.
-    </td>
-    <td width="33%" valign="top">
-      <b>Philosophy</b><br />
-      <i>"Code is like humor. When you have to explain it, it's bad."</i>
-    </td>
-  </tr>
-</table>
+Currently, I am focused on building real-world applications, improving my software architecture skills, and writing efficient, production-oriented code.
 
 ---
 
-## What I Do
+## 🚀 About Me
 
-- Design and build RESTful APIs and backend services with **Spring Boot**
-- Implement authentication and authorization with **Spring Security**
-- Model and optimize data access with **Hibernate/JPA**, **PostgreSQL**, and **MySQL**
-- Structure and connect **microservices** with performance and security in mind
-- Containerize and ship applications with **Docker** on **Linux**
+- 💻 Backend Developer specializing in **Java and Spring Boot**
+- 🏗️ Interested in scalable backend architecture and clean code
+- 🔐 Experienced in REST APIs, authentication, authorization, and security
+- 🗄️ Working with relational databases and data modeling
+- ☁️ Exploring cloud storage, distributed systems, and backend infrastructure
+- 📚 Continuously learning and building real-world projects
+- 🎯 Focused on writing maintainable, secure, and efficient software
 
-## How I Think About a Request
+---
 
-Every service I write follows the same layered path, so security is part of the structure instead of an afterthought.
+## 🛠️ Tech Stack
 
-```mermaid
-flowchart LR
-    R([Request]) --> F[Security<br/>Filter Chain]
-    F --> C[Controller]
-    C --> S[Service Layer<br/>business logic]
-    S --> P[Repository<br/>Hibernate / JPA]
-    P --> D[(PostgreSQL<br/>MySQL)]
+### Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)
+![MapStruct](https://img.shields.io/badge/MapStruct-Mapper-4A90E2?style=for-the-badge)
+
+### Database & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Authentication & Security
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Cloud & Infrastructure
+![Cloudflare](https://img.shields.io/badge/Cloudflare- F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 💡 What I Work With
+
+```text
+Backend          → Java, Spring Boot, REST APIs
+Architecture     → Layered Architecture, Clean Code, DTO Pattern
+Security        → Spring Security, Keycloak, JWT, Role-Based Access Control
+Database        → PostgreSQL, Hibernate, JPA
+Caching         → Redis
+Mapping         → MapStruct
+Storage         → Cloudflare R2, S3-Compatible Object Storage
+Build Tools     → Gradle
+Infrastructure  → Docker
+Development     → Git, GitHub, IntelliJ IDEA, Postman
 ```
 
-## Tech Stack
+---
 
-| | |
-|---|---|
-| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **API Testing** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white) |
+## 📌 Featured Projects
 
-<!--
-## Featured Projects
+### 📚 Uzbek Library — Digital Library Backend
 
-Uncomment this block and replace REPO_NAME with your best 2-4 repositories.
-Pinned cards update automatically from your repo description.
+A backend system designed to provide a digital library platform with book management, category organization, user interactions, and secure document storage.
+
+**Key Features:**
+- RESTful API architecture
+- JWT-based authentication and role-based authorization
+- Hierarchical category management
+- Book and document management
+- PDF and EPUB upload infrastructure
+- Cloudflare R2 object storage integration
+- Redis caching
+- User favorites and reading activity
+- Entity auditing and centralized exception handling
+
+**Technologies:** Java · Spring Boot · PostgreSQL · Redis · Keycloak · Cloudflare R2 · Docker
+
+---
+
+### 🚗 Backend Development — Marketplace Platform
+
+Contributed to backend development for a marketplace application, working on features designed to improve user interaction, engagement, and application functionality.
+
+**Key Contributions:**
+- Listing view tracking and statistics
+- Most-viewed listing functionality
+- Favorite management
+- Real-time messaging infrastructure
+- WebSocket-based notifications
+- Reporting functionality
+- Scheduled operations and expiration management
+
+**Technologies:** Java · Spring Boot · PostgreSQL · Redis · Keycloak · WebSocket
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🌱 Currently Learning & Improving
+
+- Advanced Spring Boot architecture
+- Database optimization and query performance
+- Distributed systems and microservices
+- Cloud infrastructure and object storage
+- Security best practices
+- High-performance and scalable backend design
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in backend development, software engineering, new technologies, and opportunities to collaborate on meaningful projects.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+
+---
 
 <p align="center">
-  <a href="https://github.com/mobinnoori/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mobinnoori&repo=REPO_NAME&hide_border=true" alt="Project one" /></a>
-  <a href="https://github.com/mobinnoori/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mobinnoori&repo=REPO_NAME_2&hide_border=true" alt="Project two" /></a>
+  <i>"Building reliable systems, one line of code at a time."</i>
 </p>
--->
-
-## GitHub Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mobinnoori&show_icons=true&count_private=true&hide_border=true&bg_color=0F1420&title_color=F5A524&text_color=D5DFEC&icon_color=6DB33F">
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mobinnoori&show_icons=true&count_private=true&hide_border=true&title_color=C27800&icon_color=4C8C2B">
-  </picture>
-  <img height="165" alt="Most used languages" src="./assets/top-langs.svg" />
-</p>
-
-## Get in Touch
-
-I'm open to conversations about backend engineering, application security, and new opportunities. The fastest way to reach me is [email](mailto:mobin.noori21@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mobin-noori-93194b263/).
-
-<br />
-
-<img src="./assets/footer.svg" alt="Keep building. Keep learning. Keep evolving." width="100%" />
